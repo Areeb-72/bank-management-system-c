@@ -19,7 +19,7 @@ The system supports secure user authentication, file-based data persistence, tra
 - Money transfer between users
 - Daily transfer limit enforcement
 - Transaction history logging
-- **Account summary with recent transaction history**
+- Account summary with recent transaction history
 
 ### 🏦 Loan Management
 - Loan eligibility based on:
@@ -59,3 +59,29 @@ The system supports secure user authentication, file-based data persistence, tra
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
+
+git clone https://github.com/Areeb-72/bank-management-system-c.git
+cd bank-management-system-c
+
+2. Compile the program:
+gcc main.c -o bank.exe
+
+3.Run the executable:
+bank.exe
+
+---
+
+## 📽 Demo
+Project demo video is available on LinkedIn.  
+(Link will be added)
+
+---
+
+## 👤 Author
+Areeb Ahmed
+
+---
+
+## 📌 Note
+- This project is built for learning purposes and demonstrates core banking logic, secure input handling, and file-based data persistence in C.
+
